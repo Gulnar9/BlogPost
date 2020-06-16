@@ -31,7 +31,7 @@ https://www.kaggle.com/airbnb/seattle
 
 # Files
 
-..............
+project2.ipnb
 
 # Conclusion
 - Neighbourhoods with the most listing counts are located mostly in the city centre.
