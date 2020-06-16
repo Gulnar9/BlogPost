@@ -34,6 +34,9 @@ https://www.kaggle.com/airbnb/seattle
 ..............
 
 # Conclusion
-
+- Neighbourhoods with the most listing counts are located mostly in the city centre.
+- In this article, we reached 60% of accuracy and MSE=14.
+- We found out that that property and room type, location, extra guests, bedroom and bathroom counts are mostly affecting the price.
+- After looking at the data we figured out that price doesn`t have much impact on price, What has is amenities. So hosts may enrich and focus on their service provided in order to get a higher score.
 
 
